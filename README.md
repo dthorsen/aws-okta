@@ -7,7 +7,7 @@
 You can install with:
 
 ```bash
-$ go get github.com/segmentio/aws-okta
+$ go get github.com/dthorsen/aws-okta
 ```
 
 ## Usage
